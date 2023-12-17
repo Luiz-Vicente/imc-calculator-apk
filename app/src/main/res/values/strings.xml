@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IMC Calculator</string>
+    <string name="to_calculate">CALCULAR</string>
+    <string name="weight">Peso</string>
+    <string name="height">Altura</string>
+    <string name="your_imc_is">O SEU IMC É:</string>
+    <string name="fill_in_your_height_in_meters">Digite sua altura (metros):</string>
+    <string name="enter_your_weight_kilograms">Digite seu peso (quilogramas):</string>
+    <string name="calculate_your_imc">Calcule seu IMC</string>
+    <string name="imc_table_description">Tabela comparativa entre IMC e sua respectiva classificação</string>
+</resources>
